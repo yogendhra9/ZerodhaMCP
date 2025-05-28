@@ -1,0 +1,14 @@
+{
+  "name": "trading_journal",
+  "version": "1.0.0",
+  "description": "Trading Journal Application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "kiteconnect": "^4.1.0",
+    "@modelcontextprotocol/sdk": "latest",
+    "zod": "latest"
+  }
+}
